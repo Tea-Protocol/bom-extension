@@ -1,6 +1,6 @@
 
 {
-  "name": "@shawncvv/dom-extension",
+  "name": "@shawncvv/bom-extension",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tea-Protocol/dom-extension.git"
+    "url": "git+https://github.com/Tea-Protocol/bom-extension.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Tea-Protocol/dom-extension/issues"
+    "url": "https://github.com/Tea-Protocol/bom-extension/issues"
   },
-  "homepage": "https://github.com/Tea-Protocol/dom-extension#readme",
+  "homepage": "https://github.com/Tea-Protocol/bom-extension#readme",
   "devDependencies": {}
 }
